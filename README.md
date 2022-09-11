@@ -8,11 +8,19 @@ Each poker hand (one pair, two pair, full house, etc.) has a corresponding numbe
 A poker hand is a group of 5 cards. Here are the different poker hands and the associated score, in descending order of score:
 
 (100 points) Royal Flush: The ace, king, queen, jack and 10 of the same suit (all clubs, all spades, all diamonds, or all hearts).
+
 (75 points) Straight Flush: Five consecutive cards of the same suit (for example 7, 8, 9, 10 and jack, all clubs, all spades, all diamonds, or all hearts).
+
 (50 points) Square: Four cards of the same value (for example four jacks).
+
 (25 points) Full House: Three cards of the same value and a pair of cards of the same value (eg three aces and two 9s).
+
 (20 points) Flush or Flush: All cards of the same suit (all clubs, all spades, all diamonds, or all hearts).
+
 (15 points) Straight: Five consecutive cards (eg 8, 9, 10, Jack and Queen). It should be noted that the ace can be the beginning or the end of the sequence.
+
 (10 points) Brelan: Three cards of the same value (for example three kings).
+
 (5 points) Double Pair: A pair of cards of the same value and another pair of cards of the same value (eg two kings and two 7s).
+
 (2 points) A Pair: A pair of cards of the same value (eg two aces).
